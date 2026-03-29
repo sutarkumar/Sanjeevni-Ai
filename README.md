@@ -1,4 +1,4 @@
-@@ -0,0 +1,151 @@
+
 # 🌍 Sanjeevani - Multilingual AI Doctor
 
 **Sanjeevani** is an AI-powered virtual doctor that accepts voice, image, or text input from patients, analyzes symptoms using Groq LLM, and responds in the selected language using Murf AI for translation and text-to-speech. It features a beautiful Gradio-based UI and supports 16+ global languages.
